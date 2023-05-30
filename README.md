@@ -47,11 +47,3 @@ Descrição   | Instituição   | Ano | Tipo
   <a href="https://www.linkedin.com/in/júlio-césar-sinatora-9128bb242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  
- 
- ## ⚙️ Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/JulioSinatora">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JulioSinatora&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioSinatora&layout=compact&langs_count=7&theme=dark"/>
-</div>
