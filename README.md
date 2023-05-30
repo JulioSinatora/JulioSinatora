@@ -12,7 +12,7 @@
 
 
 
-## 👨🏽‍💻🚀 Minhas Tecnologias
+## 👨🏽‍💻🚀 Tecnologias que estou aprendendo!
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40"
