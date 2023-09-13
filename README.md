@@ -16,11 +16,11 @@
 
 <div style="display: inline_block">
 
-  <img align="center" alt="github" height="30" width="40"
+  <img align="center" alt="github" height="40" width="50"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-   <img align="center" alt="php" height="30" width="40"
+   <img align="center" alt="php" height="40" width="50"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="mysql" height="30" width="40"
+  <img align="center" alt="mysql" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
           
