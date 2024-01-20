@@ -17,7 +17,7 @@
 <div style="display: inline_block">
 
    <img align="center" alt="github" height="45" width="55"
-    <i class="devicon-github-original-wordmark"></i>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />     
    <img align="center" alt="php" height="45" width="55"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img align="center" alt="postgresql" height="45" width="55"
